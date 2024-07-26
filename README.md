@@ -1,2 +1,2 @@
 # LandingPage
- Landing Page Priscilla Reis
+ Landing Page criada para treinamento de fundamentos em Front-end.
